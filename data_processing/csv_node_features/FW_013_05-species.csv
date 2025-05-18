@@ -1,0 +1,123 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Aoteapsyche sp1 FW_013_05","Animals","Prey",2,2,1
+"Aoteapsyche sp1 FW_013_05","Animals","Predator",41,41,1
+"Aphrophila noevaezelandiae","Animals","Prey",1,1,8
+"Aphrophila noevaezelandiae","Animals","Predator",30,30,8
+"Archicaulioides diversus","Animals","Predator",4,4,1
+"Austraclima jollyae","Animals","Predator",26,26,1
+"Austrosimulium australense","Animals","Prey",1,1,11
+"Austrosimulium australense","Animals","Predator",25,25,11
+"Costachorema xanthoptera","Animals","Predator",2,2,10
+"Cricotopus I","Animals","Predator",24,24,5
+"Cricotopus II","Animals","Prey",3,3,5
+"Cricotopus II","Animals","Predator",18,18,5
+"Deleatidium sp1 FW_013_05","Animals","Prey",5,5,1
+"Deleatidium sp1 FW_013_05","Animals","Predator",19,19,1
+"Eukiefiriella","Animals","Prey",9,9,6
+"Eukiefiriella","Animals","Predator",18,18,6
+"Heliopsyche albescens","Animals","Predator",8,8,1
+"Hexatomini sp1 FW_013_05","Animals","Predator",16,16,1
+"Hydora nitida larvae","Animals","Predator",26,26,4
+"Hydraena homalaena Type H1","Animals","Predator",10,10,1
+"Hydraena homalaena Type H2","Animals","Predator",9,9,1
+"Hydraena orchymontia","Animals","Prey",1,1,2
+"Hydraena orchymontia","Animals","Predator",6,6,2
+"Hydrobiosella sp1 FW_013_05","Animals","Prey",1,1,1
+"Hydrobiosella sp1 FW_013_05","Animals","Predator",41,41,1
+"Hydrobiosid sp1 FW_013_05","Animals","Prey",2,2,1
+"Hydrobiosid sp1 FW_013_05","Animals","Predator",1,1,1
+"Larsia I","Animals","Predator",2,2,4
+"Maoridiamesea","Animals","Prey",1,1,6
+"Maoridiamesea","Animals","Predator",15,15,6
+"Meiofauna","Animals","Prey",5,5,2
+"Moss cells","Animals","Prey",6,6,5
+"Naonella","Animals","Prey",4,4,8
+"Naonella","Animals","Predator",18,18,8
+"Oligochaeta type II","Animals","Prey",2,2,9
+"Oligochaeta type II","Animals","Predator",23,23,9
+"Olinga feredayi","Animals","Prey",1,1,6
+"Olinga feredayi","Animals","Predator",12,12,6
+"Orthoclad sp1 FW_013_05","Animals","Prey",1,1,1
+"Orthoclad sp1 FW_013_05","Animals","Predator",21,21,1
+"Oxyethira albiceps","Animals","Prey",1,1,5
+"Oxyethira albiceps","Animals","Predator",15,15,5
+"Paroxyethira eatoni","Animals","Prey",1,1,1
+"Paroxyethira eatoni","Animals","Predator",12,12,1
+"Pirara","Animals","Prey",2,2,7
+"Pirara","Animals","Predator",16,16,7
+"Podonomus","Animals","Prey",1,1,4
+"Podonomus","Animals","Predator",15,15,4
+"Polypedellum","Animals","Predator",24,24,6
+"Psilachorema bidens","Animals","Prey",1,1,10
+"Psilachorema bidens","Animals","Predator",8,8,10
+"Salmo trutta","Animals","Predator",22,22,11
+"Scirtid sp1 FW_013_05","Animals","Predator",11,11,1
+"Scirtid sp2 FW_013_05","Animals","Predator",9,9,1
+"Scirtid sp3 FW_013_05","Animals","Prey",1,1,1
+"Scirtid sp3 FW_013_05","Animals","Predator",1,1,1
+"Tanypodini","Animals","Predator",1,1,3
+"Tanytarsini I","Animals","Prey",1,1,1
+"Tanytarsini I","Animals","Predator",25,25,1
+"Tanytarsini II","Animals","Predator",8,8,3
+"Terrestrial Invertebrates","Animals","Prey",5,5,14
+"Zelandoperla sp1 FW_013_05","Animals","Prey",3,3,1
+"Zelandoperla sp1 FW_013_05","Animals","Predator",26,26,1
+"Zelandoperla sp2 FW_013_05","Animals","Prey",1,1,1
+"Zelandoperla sp2 FW_013_05","Animals","Predator",9,9,1
+"Zelolessica cheira","Animals","Prey",1,1,2
+"Zelolessica cheira","Animals","Predator",12,12,2
+"Achnanthes lanceoloata","Plants","Prey",12,12,5
+"Achnanthes linearis","Plants","Prey",14,14,6
+"Achnanthes minutissima","Plants","Prey",1,1,5
+"Achnanthes saxonica","Plants","Prey",1,1,5
+"Asterionella sp1 FW_013_05","Plants","Prey",8,8,1
+"Audouinella","Plants","Prey",4,4,4
+"Aulacoseira sp1 FW_013_05","Plants","Prey",13,13,1
+"Cocconeis sp1 FW_013_05","Plants","Prey",28,28,1
+"Cymbella kappii","Plants","Prey",8,8,9
+"Diatoma heimale","Plants","Prey",18,18,14
+"Eunotia sp1 FW_013_05","Plants","Prey",18,18,1
+"Eunotia sp2 FW_013_05","Plants","Prey",1,1,1
+"Fragilaria sp1 FW_013_05","Plants","Prey",4,4,1
+"Gomphonema cf. olivaceum","Plants","Prey",15,15,5
+"Gomphonema sp1 FW_013_05","Plants","Prey",12,12,1
+"Macrophytes","Plants","Prey",6,6,8
+"Meridion circulare","Plants","Prey",3,3,10
+"Microspora sp1 FW_013_05","Plants","Prey",9,9,1
+"Navicula cf. radiosa","Plants","Prey",9,9,4
+"Nitzschia sp1 FW_013_05","Plants","Prey",23,23,1
+"Nitzschia sp2 FW_013_05","Plants","Prey",3,3,1
+"Oedogonium","Plants","Prey",3,3,4
+"Pinnularia sp1 FW_013_05","Plants","Prey",6,6,1
+"Rhoicosphenia curvata","Plants","Prey",5,5,14
+"Rhopalodia novae zelandicae","Plants","Prey",9,9,6
+"Synedra rumpens","Plants","Prey",2,2,10
+"Blue-green algae","Bacteria","Prey",5,5,7
+"Green algae sp1 FW_013_05","Bacteria","Prey",7,7,1
+"Green algae sp2 FW_013_05","Bacteria","Prey",4,4,1
+"Achnanthes sp1 FW_013_05","Chromista","Prey",2,2,1
+"Cyclotella sp1 FW_013_05","Chromista","Prey",23,23,1
+"Cymbella aspera","Chromista","Prey",1,1,11
+"Cymbella cuspidata","Chromista","Prey",1,1,7
+"Cymbella minuta","Chromista","Prey",28,28,9
+"Diploneis sp1 FW_013_05","Chromista","Prey",2,2,1
+"Epithemia sorex","Chromista","Prey",19,19,11
+"Epithemia zebra","Chromista","Prey",12,12,7
+"Fragilaria vaucheriae","Chromista","Prey",25,25,13
+"Frustulia rhomboides","Chromista","Prey",9,9,15
+"Gomphoneis herculeana","Chromista","Prey",21,21,12
+"Gomphonema acuminatum","Chromista","Prey",4,4,2
+"Gomphonema parvulum","Chromista","Prey",8,8,10
+"Gomphonema subclavatum","Chromista","Prey",10,10,10
+"Gomphonema truncatum","Chromista","Prey",13,13,10
+"Melosira varians","Chromista","Prey",1,1,10
+"Navicula avenacea","Chromista","Prey",14,14,15
+"Navicula cryptocephala","Chromista","Prey",1,1,10
+"Navicula rhynchocephala","Chromista","Prey",2,2,9
+"Navicula sp1 FW_013_05","Chromista","Prey",5,5,1
+"Pinnularia","Chromista","Prey",7,7,5
+"Sephanodiscus sp1 FW_013_05","Chromista","Prey",16,16,1
+"Surirella tenera","Chromista","Prey",7,7,3
+"Synedra ulna","Chromista","Prey",25,25,16
+"Tabellaria flocculosa","Chromista","Prey",28,28,13
+"Detritus","Undefined","Prey",31,31,27

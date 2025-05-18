@@ -1,0 +1,130 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acroneuria sp1 FW_011","Animals","Predator",6,6,1
+"Aelosoma sp1 FW_011","Animals","Prey",11,11,1
+"Aelosoma sp1 FW_011","Animals","Predator",8,8,1
+"Alloperla sp1 FW_011","Animals","Predator",1,1,1
+"Anepeorus sp1 FW_011","Animals","Predator",8,8,1
+"Antocha saxicola","Animals","Predator",8,8,1
+"Baetis","Animals","Prey",4,4,2
+"Baetis","Animals","Predator",9,9,2
+"Boyeria vinosa","Animals","Predator",2,2,1
+"Brook trout","Animals","Predator",8,8,1
+"Bryophaenocladius sp1 FW_011","Animals","Prey",2,2,1
+"Bryophaenocladius sp1 FW_011","Animals","Predator",4,4,1
+"Cambarus bartonii","Animals","Predator",2,2,1
+"Chauliodes sp1 FW_011","Animals","Prey",2,2,1
+"Chauliodes sp1 FW_011","Animals","Predator",9,9,1
+"Chimarra atterima","Animals","Prey",4,4,1
+"Chimarra atterima","Animals","Predator",7,7,1
+"Conchapelopia sp1 FW_011","Animals","Prey",4,4,1
+"Conchapelopia sp1 FW_011","Animals","Predator",5,5,1
+"Cryptolabis sp1 FW_011","Animals","Predator",2,2,1
+"Cyrnellus sp1 FW_011","Animals","Predator",3,3,1
+"Dicrotendipes sp1 FW_011","Animals","Prey",6,6,1
+"Dicrotendipes sp1 FW_011","Animals","Predator",12,12,1
+"Diplectrona modesta","Animals","Predator",8,8,2
+"Ectopria nervosa","Animals","Prey",1,1,1
+"Ectopria nervosa","Animals","Predator",9,9,1
+"Endochironomous sp1 FW_011","Animals","Prey",7,7,1
+"Endochironomous sp1 FW_011","Animals","Predator",3,3,1
+"Ephemerella sp1 FW_011","Animals","Predator",2,2,1
+"Eukieferiella pseudomontana","Animals","Prey",3,3,1
+"Eukieferiella pseudomontana","Animals","Predator",3,3,1
+"Eukiefferiella 'dark' type","Animals","Prey",1,1,1
+"Eukiefferiella 'dark' type","Animals","Predator",7,7,1
+"Glossosoma sp1 FW_011","Animals","Predator",3,3,1
+"Gyraulus sp1 FW_011","Animals","Predator",10,10,1
+"Haploperla brevis","Animals","Predator",2,2,1
+"Hexatoma sp1 FW_011","Animals","Predator",6,6,1
+"Hydrophilidae","Animals","Predator",2,2,2
+"Hydropsyche sp1 FW_011arana","Animals","Prey",5,5,1
+"Hydropsyche sp1 FW_011arana","Animals","Predator",15,15,1
+"Larsia sp1 FW_011","Animals","Prey",2,2,1
+"Larsia sp1 FW_011","Animals","Predator",1,1,1
+"Leucrocuta sp1 FW_011","Animals","Predator",13,13,1
+"Leuctra sp1 FW_011","Animals","Prey",4,4,1
+"Leuctra sp1 FW_011","Animals","Predator",9,9,1
+"Metriocnemus sp1 FW_011","Animals","Prey",4,4,1
+"Metriocnemus sp1 FW_011","Animals","Predator",7,7,1
+"Micrasema sp1 FW_011","Animals","Predator",2,2,1
+"Notropis heterolepsis","Animals","Prey",1,1,1
+"Notropis heterolepsis","Animals","Predator",14,14,1
+"Ochthebius sp1 FW_011","Animals","Predator",2,2,1
+"Ophiogomphus sp1 FW_011","Animals","Predator",5,5,1
+"Orcnocetes virilis","Animals","Predator",2,2,1
+"Paraleptophlebia sp1 FW_011","Animals","Predator",3,3,1
+"Paranyctiophylax sp1 FW_011","Animals","Prey",1,1,1
+"Paranyctiophylax sp1 FW_011","Animals","Predator",2,2,1
+"Polycentropus sp1 FW_011","Animals","Predator",3,3,1
+"Probezzia sp1 FW_011","Animals","Predator",1,1,1
+"Promoresia sp1 FW_011","Animals","Prey",2,2,1
+"Promoresia sp1 FW_011","Animals","Predator",5,5,1
+"Psephenus sp1 FW_011","Animals","Predator",18,18,1
+"Pseudolimnolphila sp1 FW_011","Animals","Predator",2,2,1
+"Rhinichthys cataractae","Animals","Predator",11,11,1
+"Rhyacophila sp1 FW_011","Animals","Predator",2,2,1
+"Simulium sp1 FW_011","Animals","Predator",17,17,1
+"Sphaerium occidentale","Animals","Predator",5,5,1
+"Stempelinella sp1 FW_011","Animals","Prey",3,3,1
+"Stempelinella sp1 FW_011","Animals","Predator",8,8,1
+"Stenelmis crenata","Animals","Prey",1,1,1
+"Stenelmis crenata","Animals","Predator",7,7,1
+"Stenelmis sp1 FW_011","Animals","Predator",7,7,1
+"Suwalia sp1 FW_011","Animals","Predator",1,1,1
+"Tallaperla sp1 FW_011","Animals","Prey",4,4,1
+"Tallaperla sp1 FW_011","Animals","Predator",7,7,1
+"Tanytarsus Genus A","Animals","Prey",1,1,1
+"Tanytarsus Genus A","Animals","Predator",2,2,1
+"Terrestrial Invertebrates","Animals","Prey",9,9,14
+"Tricorythodes sp1 FW_011","Animals","Predator",3,3,1
+"Unidentified sp6 FW_011","Animals","Prey",1,1,1
+"Unidentified sp6 FW_011","Animals","Predator",12,12,1
+"Unidentified sp7 FW_011","Animals","Prey",7,7,1
+"Unidentified sp7 FW_011","Animals","Predator",8,8,1
+"Achnanthes lanceolata","Plants","Prey",5,5,6
+"Batrachospermum","Plants","Prey",1,1,3
+"Cosmarium sp1 FW_011","Plants","Prey",1,1,1
+"Diatoma heimale","Plants","Prey",8,8,14
+"Oedogonium sp1 FW_011","Plants","Prey",2,2,1
+"Pleaurotaenium sp1 FW_011","Plants","Prey",3,3,1
+"Staurastrum sp1 FW_011","Plants","Prey",1,1,1
+"Terrestrial plant material","Plants","Prey",27,27,4
+"Ulothrix sp1 FW_011","Plants","Prey",11,11,1
+"Unidentified sp1 FW_011","Plants","Prey",50,50,1
+"Unidentified sp2 FW_011","Plants","Prey",1,1,1
+"Unidentified sp3 FW_011","Plants","Prey",10,10,1
+"Unidentified sp4 FW_011","Plants","Prey",12,12,1
+"Unidentified sp5 FW_011","Plants","Prey",5,5,1
+"Calothrix sp1 FW_011","Bacteria","Prey",3,3,1
+"Phormidium sp1 FW_011","Bacteria","Prey",1,1,1
+"Schizothrix sp1 FW_011","Bacteria","Prey",1,1,1
+"Cocconeis placentula","Chromista","Prey",8,8,4
+"Cyclotella sp1 FW_011","Chromista","Prey",1,1,1
+"Cymbella aspera","Chromista","Prey",3,3,11
+"Cymbella cuspidata","Chromista","Prey",1,1,7
+"Cymbella kappi","Chromista","Prey",2,2,3
+"Cymbella tumida","Chromista","Prey",1,1,1
+"Epithemia sorex","Chromista","Prey",3,3,11
+"Epithemia turgida","Chromista","Prey",1,1,4
+"Eunotia serpentina","Chromista","Prey",3,3,1
+"Euntoia pectinalis","Chromista","Prey",9,9,1
+"Fragilaria sp1 FW_011","Chromista","Prey",3,3,1
+"Fragilaria vaucheriae","Chromista","Prey",3,3,13
+"Frustulia rhomboides","Chromista","Prey",9,9,15
+"Gomphoneis herculeana","Chromista","Prey",12,12,12
+"Gomphonema accuminatum","Chromista","Prey",3,3,3
+"Gomphonema angustatum","Chromista","Prey",3,3,8
+"Gomphonema truncatum","Chromista","Prey",1,1,10
+"Melosira varians","Chromista","Prey",2,2,10
+"Navicula avenacea","Chromista","Prey",9,9,15
+"Navicula dicephala","Chromista","Prey",1,1,1
+"Nitzschia dubia","Chromista","Prey",4,4,2
+"Pinnularia mesolepta","Chromista","Prey",1,1,2
+"Pinnularia viridis","Chromista","Prey",3,3,4
+"Rhoicospenia curvata","Chromista","Prey",12,12,1
+"Rhopalodia sp1 FW_011","Chromista","Prey",2,2,1
+"Surirella elegans","Chromista","Prey",2,2,5
+"Surirella tenera","Chromista","Prey",2,2,3
+"Synedra ulna","Chromista","Prey",3,3,16
+"Tabellaria fenestrata","Chromista","Prey",2,2,1
+"Tabellaria flocculosa","Chromista","Prey",2,2,13

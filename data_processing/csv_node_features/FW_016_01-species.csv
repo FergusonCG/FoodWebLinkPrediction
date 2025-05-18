@@ -1,0 +1,69 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Alkmaria romijni","Animals","Prey",4,0.034,1
+"Alkmaria romijni","Animals","Predator",2,1,1
+"Ampithoe valida","Animals","Predator",3,1,1
+"Ampithoe valida","Animals","Prey",9,0.256,1
+"Aonides oxycephala","Animals","Predator",1,1,1
+"Aonides oxycephala","Animals","Prey",9,0.23,1
+"Capitella capitata","Animals","Predator",1,1,1
+"Capitella capitata","Animals","Prey",5,0.024,1
+"Carcinus maenas","Animals","Predator",27,1,1
+"Carcinus maenas","Animals","Prey",3,0.125,1
+"Cerastoderma edule","Animals","Prey",8,0.273,1
+"Cerastoderma edule","Animals","Predator",3,1,1
+"Chaetozone setosa","Animals","Predator",1,1,1
+"Chaetozone setosa","Animals","Prey",8,0.212,1
+"Crangon crangon","Animals","Prey",2,0.15,1
+"Crangon crangon","Animals","Predator",28,1,1
+"Cyathura carinata","Animals","Predator",14,1,1
+"Cyathura carinata","Animals","Prey",4,0.11,1
+"Diopatra neapolitana","Animals","Predator",10,1,1
+"Diopatra neapolitana","Animals","Prey",5,0.01,1
+"Eteone flava","Animals","Prey",3,0.003,1
+"Eteone flava","Animals","Predator",7,1,1
+"Gibulla umbilicalis","Animals","Prey",4,0.027,1
+"Gibulla umbilicalis","Animals","Predator",3,1,1
+"Glycera tridactyla","Animals","Prey",9,0.18,1
+"Glycera tridactyla","Animals","Predator",23,1,1
+"Haminoea hydatis","Animals","Predator",3,1,1
+"Haminoea hydatis","Animals","Prey",3,0.02,1
+"Hediste diversicolor","Animals","Prey",8,0.814,1
+"Hediste diversicolor","Animals","Predator",18,1,1
+"Heteromastus filiformis","Animals","Prey",10,0.712,1
+"Heteromastus filiformis","Animals","Predator",1,1,1
+"Hydrobia ulvae","Animals","Predator",2,1,1
+"Hydrobia ulvae","Animals","Prey",7,0.534,1
+"Idotea chelipes","Animals","Prey",6,0.041,1
+"Idotea chelipes","Animals","Predator",6,1,1
+"Lagis koreni","Animals","Prey",6,0.021,1
+"Lagis koreni","Animals","Predator",1,1,1
+"Lekanesphaera levii","Animals","Predator",2,1,1
+"Lekanesphaera levii","Animals","Prey",2,0.002,1
+"Littorina littorea","Animals","Prey",5,0.075,1
+"Littorina littorea","Animals","Predator",4,1,1
+"Lumbrineris impatiens","Animals","Prey",5,0.057,1
+"Lumbrineris impatiens","Animals","Predator",23,1,1
+"Melita palmata","Animals","Predator",3,1,1
+"Melita palmata","Animals","Prey",9,0.197,1
+"Mytilus sp1 FW_016_01","Animals","Predator",3,1,1
+"Mytilus sp1 FW_016_01","Animals","Prey",2,0.006,1
+"Nemertini","Animals","Prey",4,0.053,1
+"Nemertini","Animals","Predator",27,1,1
+"Nephthys sp1 FW_016_01","Animals","Prey",7,0.018,1
+"Nephthys sp1 FW_016_01","Animals","Predator",17,1,1
+"Oligochaeta","Animals","Predator",1,1,1
+"Oligochaeta","Animals","Prey",9,0.396,1
+"Pygospio elegans","Animals","Prey",3,0.102,1
+"Pygospio elegans","Animals","Predator",2,1,1
+"Scrobicularia plana","Animals","Predator",3,1,1
+"Scrobicularia plana","Animals","Prey",8,0.276,1
+"Streblospio shrubsolii","Animals","Prey",7,0.227,1
+"Streblospio shrubsolii","Animals","Predator",1,1,1
+"Zooplankton","Animals","Predator",2,1,15
+"Zooplankton","Animals","Prey",4,0.185,15
+"Green macroalgae","Plants","Prey",8,1.04,1
+"Imports","Plants","Prey",2,0.24,1
+"Microphytobenthos","Plants","Prey",14,2.42,1
+"Phytoplankton","Plants","Prey",7,3.53,14
+"Zostera noltii","Plants","Prey",3,0.35,1
+"Detritus","Undefined","Prey",30,18.05,27

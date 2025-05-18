@@ -1,0 +1,83 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Ameletopsis perscitus","Animals","Predator",2,2,3
+"Amphipoda type purple","Animals","Predator",7,7,1
+"Amphipoda type purple","Animals","Prey",1,1,1
+"Aoteapsyche raruraru","Animals","Prey",1,1,3
+"Aoteapsyche raruraru","Animals","Predator",2,2,3
+"Aphrophila neozelandicus","Animals","Predator",17,17,1
+"Austroperla cyrene","Animals","Predator",8,8,8
+"Austrosimulium australense","Animals","Predator",8,8,11
+"Coloburiscus humeralis","Animals","Predator",3,3,10
+"Coloburiscus humeralis","Animals","Prey",2,2,10
+"Cricotopus sp1 FW_013_01","Animals","Prey",3,3,1
+"Cricotopus sp1 FW_013_01","Animals","Predator",6,6,1
+"Cristaperla fimbria","Animals","Predator",1,1,1
+"Deleatidum lilli","Animals","Prey",7,7,1
+"Deleatidum lilli","Animals","Predator",13,13,1
+"Eukieflidriella brundini","Animals","Prey",1,1,1
+"Eukieflidriella brundini","Animals","Predator",2,2,1
+"Galaxias brevipennis","Animals","Predator",3,3,1
+"Hudsonema amabilis","Animals","Predator",2,2,7
+"Hydora nitida","Animals","Prey",2,2,2
+"Hydora nitida","Animals","Predator",5,5,2
+"Hydraena homolaena","Animals","Predator",5,5,3
+"Hydrobiosella stenocerca","Animals","Predator",2,2,4
+"Hydrobiosis sp1 FW_013_01","Animals","Prey",1,1,1
+"Hydrophilidae","Animals","Predator",1,1,2
+"Isopoda","Animals","Predator",3,3,1
+"Lumbriculiid type II","Animals","Predator",5,5,3
+"Lumbriculiid type II","Animals","Prey",2,2,3
+"Maoridiamesia sp1 FW_013_01","Animals","Predator",6,6,1
+"Megaleptoperla grandis","Animals","Predator",3,3,6
+"Megaleptoperla grandis","Animals","Prey",2,2,6
+"Naonella forsythii","Animals","Predator",5,5,3
+"Paracalliope fluviatalus","Animals","Predator",6,6,2
+"Paracalliope fluviatalus","Animals","Prey",2,2,2
+"Paranephrops zelandicus","Animals","Prey",1,1,4
+"Paranephrops zelandicus","Animals","Predator",3,3,4
+"Podaena sp1 FW_013_01","Animals","Predator",2,2,1
+"Potamopyrgus antipodarum","Animals","Predator",13,13,10
+"Potamopyrgus antipodarum","Animals","Prey",1,1,10
+"Pycnocentria evecta","Animals","Predator",3,3,2
+"Pycnocentria evecta","Animals","Prey",1,1,2
+"Rhabdomastrix sp1 FW_013_01","Animals","Predator",2,2,1
+"Salmo trutta","Animals","Predator",13,13,11
+"Scirtidae type broad","Animals","Predator",4,4,2
+"Stenoperla prasinia","Animals","Prey",1,1,9
+"Stenoperla prasinia","Animals","Predator",5,5,9
+"Stictocladius sp1 FW_013_01","Animals","Predator",4,4,1
+"Tanytarsini sp1 FW_013_01","Animals","Prey",1,1,1
+"Tanytarsini sp1 FW_013_01","Animals","Predator",5,5,1
+"Terrestrial Invertebrates","Animals","Prey",6,6,14
+"Tiphobiosis montana","Animals","Predator",1,1,1
+"Zelandobius confusus","Animals","Predator",7,7,2
+"Zelandoperla fenestrata","Animals","Predator",10,10,1
+"Zelandoperla fenestrata","Animals","Prey",1,1,1
+"Batrachospermum sp1 FW_013_01","Plants","Prey",2,2,1
+"Epithemis turgida","Plants","Prey",2,2,1
+"Gomphonema sp1 FW_013_01","Plants","Prey",1,1,1
+"Melosira granulata","Plants","Prey",1,1,1
+"Navicula placentula","Plants","Prey",2,2,2
+"Oedogonium sp1 FW_013_01","Plants","Prey",1,1,1
+"Rhoicosphenia curvata","Plants","Prey",15,15,14
+"Synedra rumpens","Plants","Prey",2,2,10
+"Terrestrial plant material","Plants","Prey",21,21,4
+"Ulothrix sp1 FW_013_01","Plants","Prey",4,4,1
+"Blue-green algae","Bacteria","Prey",5,5,7
+"Green algae sp1 FW_013_01","Bacteria","Prey",3,3,1
+"Cocconeis placentual","Chromista","Prey",6,6,1
+"Cyclotella sp1 FW_013_01","Chromista","Prey",1,1,1
+"Cymbella aspera","Chromista","Prey",1,1,11
+"Fragilaria vaucheriae","Chromista","Prey",3,3,13
+"Frustulia rhomboides","Chromista","Prey",7,7,15
+"Gomphonema angustatum","Chromista","Prey",3,3,8
+"Gomphonema parvulum","Chromista","Prey",2,2,10
+"Gomphonema subclavatum","Chromista","Prey",8,8,10
+"Gomphonema truncatum","Chromista","Prey",2,2,10
+"Navicula avenacea","Chromista","Prey",18,18,15
+"Nitzschia linearis","Chromista","Prey",3,3,1
+"Pinnularia borealis","Chromista","Prey",2,2,3
+"Surirella elegans","Chromista","Prey",2,2,5
+"Synedra ulna","Chromista","Prey",4,4,16
+"Tabellaria flocculosa","Chromista","Prey",4,4,13
+"Detritus","Undefined","Prey",26,26,27

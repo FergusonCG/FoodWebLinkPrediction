@@ -1,0 +1,72 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acestrorhynchus pantaneiro","Animals","Predator",15,0.999,2
+"Acestrorhynchus pantaneiro","Animals","Prey",1,0.01,2
+"Aquatic insects","Animals","Prey",17,3.663,2
+"Aquatic insects","Animals","Predator",3,1,2
+"Astyanax sp","Animals","Predator",6,1,2
+"Astyanax sp","Animals","Prey",9,0.238,2
+"Auchenipterus nuchalis","Animals","Prey",2,0.091,4
+"Auchenipterus nuchalis","Animals","Predator",4,1,4
+"Birds","Animals","Predator",14,1,2
+"Caymans","Animals","Predator",4,1,2
+"Chaetobranchopsis australis","Animals","Predator",5,1,2
+"Chaetobranchopsis australis","Animals","Prey",5,0.074,2
+"Curimatella sp","Animals","Predator",2,1,1
+"Curimatella sp","Animals","Prey",3,0.189,1
+"Gymnogeophagus balzanii","Animals","Predator",6,1,2
+"Gymnogeophagus balzanii","Animals","Prey",6,0.187,2
+"Hemiodus orthonops","Animals","Prey",1,0.05,2
+"Hemiodus orthonops","Animals","Predator",5,1,2
+"Hemisorubim platyrhynchos","Animals","Predator",11,1,2
+"Hemisorubim platyrhynchos","Animals","Prey",2,0.017,2
+"Hoplias malabaricus","Animals","Predator",19,1.002,5
+"Hoplias malabaricus","Animals","Prey",3,0.667,5
+"Hypostomus plecostomus","Animals","Predator",2,1,1
+"Hypostomus plecostomus","Animals","Prey",1,0.358,1
+"Import","Animals","Prey",24,2.186,4
+"Leporinus sp","Animals","Predator",5,1,2
+"Leporinus sp","Animals","Prey",8,0.183,2
+"Loricaria sp","Animals","Predator",2,1,3
+"Loricaria sp","Animals","Prey",3,0.128,3
+"Loricariichthys sp","Animals","Predator",2,1,2
+"Loricariichthys sp","Animals","Prey",6,0.459,2
+"Mammals","Animals","Predator",4,1,2
+"Moenkhausia sp","Animals","Predator",7,0.9996,2
+"Moenkhausia sp","Animals","Prey",7,0.574,2
+"Pimelodella sp","Animals","Predator",12,1,2
+"Pimelodella sp","Animals","Prey",5,0.802,2
+"Pimelodus sp","Animals","Prey",5,0.218,2
+"Pimelodus sp","Animals","Predator",5,1,2
+"Plagioscion ternetzi","Animals","Prey",5,0.086,2
+"Plagioscion ternetzi","Animals","Predator",14,1.002,2
+"Potamorhina squamoralevis","Animals","Prey",5,0.328,2
+"Potamorhina squamoralevis","Animals","Predator",2,1,2
+"Psectrogaster curviventris","Animals","Prey",8,1.151,2
+"Psectrogaster curviventris","Animals","Predator",2,1,2
+"Pseudoplatystoma corruscans","Animals","Prey",1,0.031,3
+"Pseudoplatystoma corruscans","Animals","Predator",15,1,3
+"Pseudoplatystoma reticulatus","Animals","Prey",2,0.948,1
+"Pseudoplatystoma reticulatus","Animals","Predator",18,1.001,1
+"Roeboides sp","Animals","Predator",10,0.999,2
+"Roeboides sp","Animals","Prey",6,0.285,2
+"Schizodon borellii","Animals","Predator",3,1,4
+"Schizodon borellii","Animals","Prey",5,0.077,4
+"Serrasalmus sp","Animals","Predator",25,1.003,2
+"Serrasalmus sp","Animals","Prey",5,0.489,2
+"Steindachnerina sp","Animals","Predator",2,1,2
+"Steindachnerina sp","Animals","Prey",9,0.188,2
+"Sturisoma robustum","Animals","Predator",2,1,2
+"Sturisoma robustum","Animals","Prey",4,0.258,2
+"Terrestrial insects","Animals","Prey",13,1.491,2
+"Terrestrial insects","Animals","Predator",2,1,2
+"Tetragonopterus argenteus","Animals","Predator",6,1,2
+"Tetragonopterus argenteus","Animals","Prey",6,0.081,2
+"Trachydoras paraguayensis","Animals","Predator",6,1,4
+"Trachydoras paraguayensis","Animals","Prey",8,0.72,4
+"Triportheus sp","Animals","Predator",6,1,2
+"Triportheus sp","Animals","Prey",3,0.247,2
+"Zooplankton","Animals","Predator",2,1,15
+"Zooplankton","Animals","Prey",10,2.368,15
+"Detritos","Plants","Prey",27,13,1
+"Macrophytes","Plants","Prey",12,2.1306,8
+"Phytoplankton","Plants","Prey",11,1.033,14

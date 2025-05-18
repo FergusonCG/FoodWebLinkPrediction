@@ -1,0 +1,218 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Abudefduf saxatilis","Animals","Predator",10,1,2
+"Abudefduf taurus","Animals","Predator",2,0.99,2
+"Acanthostracion polygonius","Animals","Predator",5,1,2
+"Acanthostracion quadricornis","Animals","Predator",8,1.01,2
+"Acanthurus bahianus","Animals","Predator",2,1,2
+"Acanthurus chirurgus","Animals","Predator",2,1,2
+"Acanthurus coeruleus","Animals","Predator",2,1,2
+"Actinopterygii","Animals","Prey",94,41.57,6
+"Aetobatus narinari","Animals","Predator",2,1,2
+"Alphestes afer","Animals","Predator",3,1.01,2
+"Aluterus schoepfii","Animals","Predator",3,1.01,2
+"Aluterus scriptus","Animals","Predator",5,0.99,1
+"Amblycirrhitus pinos","Animals","Predator",3,1,2
+"Anisotremus surinamensis","Animals","Predator",9,0.99,2
+"Anisotremus virginicus","Animals","Predator",10,1,2
+"Antennarius multiocellatus","Animals","Predator",3,0.99,2
+"Antennarius striatus","Animals","Predator",1,1,2
+"Anthozoa","Animals","Prey",24,3.75,6
+"Apogon maculatus","Animals","Predator",3,0.99,2
+"Arachnida","Animals","Prey",2,0.02,5
+"Archosargus rhomboidalis","Animals","Predator",5,0.99,2
+"Asteroidea","Animals","Prey",5,0.21,3
+"Atherinomorus stipes","Animals","Predator",4,1,2
+"Aulostomus maculatus","Animals","Predator",2,1,1
+"Balistes vetula","Animals","Predator",10,0.99,1
+"Benthic autotroph","Animals","Prey",54,26.29,6
+"Bivalvia","Animals","Prey",46,4.55,6
+"Bodianus rufus","Animals","Predator",8,1,2
+"Bothus lunatus","Animals","Predator",3,1,2
+"Bothus ocellatus","Animals","Predator",3,1,2
+"Bryozoa","Animals","Prey",1,0.04,3
+"Calamus bajonado","Animals","Predator",5,0.99,2
+"Calamus calamus","Animals","Predator",7,1,2
+"Calamus pennatula","Animals","Predator",9,1.01,2
+"Cantherhines macrocerus","Animals","Predator",5,1,1
+"Cantherhines pullus","Animals","Predator",7,1,1
+"Canthidermis sufflamen","Animals","Predator",4,1,2
+"Canthigaster rostrata","Animals","Predator",13,0.98,2
+"Carangoides bartholomaei","Animals","Predator",1,1,1
+"Caranx crysos","Animals","Predator",5,1.01,1
+"Caranx latus","Animals","Predator",3,1,2
+"Caranx ruber","Animals","Predator",5,1,2
+"Centropyge argi","Animals","Predator",2,1,2
+"Cephalopholis cruentata","Animals","Predator",4,1,2
+"Cephalopholis fulva","Animals","Predator",3,1,2
+"Cephalopoda","Animals","Prey",26,2.24,6
+"Chaetodipterus faber","Animals","Predator",8,1.01,2
+"Chaetodon capistratus","Animals","Predator",4,1.01,2
+"Chaetodon sedentarius","Animals","Predator",3,1.01,2
+"Chilomycterus antennatus","Animals","Predator",3,1.01,2
+"Chromis cyanea","Animals","Predator",3,1,2
+"Chromis multilineata","Animals","Predator",3,1,2
+"Cirripedia","Animals","Prey",4,0.16,4
+"Clepticus parrae","Animals","Predator",3,1,2
+"Coryphopterus glaucofraenum","Animals","Predator",5,1,2
+"Dactylopterus volitans","Animals","Predator",5,0.99,2
+"Decapoda sp1 FW_017","Animals","Prey",112,42.28,6
+"Decapterus punctatus","Animals","Predator",1,1,2
+"Diodon holocanthus","Animals","Predator",4,1.01,3
+"Diodon hystrix","Animals","Predator",4,1,3
+"Diplodus caudimacula","Animals","Predator",3,1,2
+"Echeneis naucrates","Animals","Predator",2,1,2
+"Echidna catenata","Animals","Predator",1,1,2
+"Echinoidea","Animals","Prey",30,5.06,6
+"Entomacrodus nigricans","Animals","Predator",3,1,2
+"Epinephelus adscensionis","Animals","Predator",4,1,2
+"Epinephelus guttatus","Animals","Predator",5,1,2
+"Epinephelus itajara","Animals","Predator",2,1,2
+"Epinephelus striatus","Animals","Predator",6,1,2
+"Equetus lanceolatus","Animals","Predator",2,1,2
+"Equetus punctatus","Animals","Predator",6,1.01,2
+"Eucinostomus argenteus","Animals","Predator",5,1.01,2
+"Euthynnus alletteratus","Animals","Predator",3,1.01,1
+"Gastropoda","Animals","Prey",63,8.04,6
+"Gerres cinereus","Animals","Predator",6,0.99,2
+"Ginglymostoma cirratum","Animals","Predator",2,1,2
+"Gnatholepis thompsoni","Animals","Predator",3,1,2
+"Gobioclinus guppyi","Animals","Predator",4,1,1
+"Gymnothorax moringa","Animals","Predator",1,1,1
+"Gymnothorax vicinus","Animals","Predator",3,0.99,1
+"Haemulon album","Animals","Predator",10,1,2
+"Haemulon aurolineatum","Animals","Predator",5,1,2
+"Haemulon carbonarium","Animals","Predator",8,1,2
+"Haemulon chrysargyreum","Animals","Predator",6,1,2
+"Haemulon flavolineatum","Animals","Predator",12,1,2
+"Haemulon macrostomum","Animals","Predator",2,1,2
+"Haemulon parra","Animals","Predator",9,1,1
+"Haemulon plumierii","Animals","Predator",10,1.01,1
+"Haemulon sciurus","Animals","Predator",11,1,2
+"Haemulon vittatum","Animals","Predator",4,1,1
+"Halichoeres bivittatus","Animals","Predator",9,0.99,2
+"Halichoeres garnoti","Animals","Predator",8,1.01,2
+"Halichoeres maculipinna","Animals","Predator",7,0.99,2
+"Halichoeres poeyi","Animals","Predator",9,0.99,2
+"Halichoeres radiatus","Animals","Predator",7,1,2
+"Harengula clupeola","Animals","Predator",2,1,2
+"Harengula humeralis","Animals","Predator",4,1.01,2
+"Hemiramphus balao","Animals","Predator",3,1,2
+"Hemiramphus brasiliensis","Animals","Predator",2,1,2
+"Heteroconger longissimus","Animals","Predator",3,1.01,1
+"Heteropriacanthus cruentatus","Animals","Predator",6,1,3
+"Holacanthus ciliaris","Animals","Predator",3,0.99,2
+"Holacanthus tricolor","Animals","Predator",2,1,2
+"Holocentrus adscensionis","Animals","Predator",4,1,1
+"Holocentrus rufus","Animals","Predator",6,1,2
+"Holothuroidea","Animals","Prey",9,0.33,6
+"Hypanus americanus","Animals","Predator",5,1,1
+"Hypoatherina harringtonensis","Animals","Predator",1,1,1
+"Hypoplectrus aberrans","Animals","Predator",4,1.01,2
+"Hypoplectrus chlorurus","Animals","Predator",2,1,2
+"Hypoplectrus nigricans","Animals","Predator",4,1,2
+"Hypoplectrus puella","Animals","Predator",4,1,2
+"Insecta","Animals","Prey",4,0.06,5
+"Jenkinsia lamprotaenia","Animals","Predator",1,1,1
+"Kyphosus incisor","Animals","Predator",1,1,2
+"Kyphosus sectatrix","Animals","Predator",1,1,2
+"Labrisomus nuchipinnis","Animals","Predator",7,0.98,2
+"Lachnolaimus maximus","Animals","Predator",6,1.01,2
+"Lactophrys bicaudalis","Animals","Predator",9,1,1
+"Lactophrys trigonus","Animals","Predator",12,1,2
+"Lactophrys triqueter","Animals","Predator",10,1,1
+"Lutjanus analis","Animals","Predator",5,0.99,2
+"Lutjanus apodus","Animals","Predator",5,1.01,2
+"Lutjanus cyanopterus","Animals","Predator",1,1,2
+"Lutjanus griseus","Animals","Predator",3,1,2
+"Lutjanus jocu","Animals","Predator",5,1,2
+"Lutjanus mahogoni","Animals","Predator",3,1,1
+"Malacanthus plumieri","Animals","Predator",8,0.99,2
+"Medusozoa","Animals","Prey",19,1.32,5
+"Melichthys niger","Animals","Predator",7,1,3
+"Microspathodon chrysurus","Animals","Predator",5,0.98,2
+"Monacanthus ciliatus","Animals","Predator",7,1.01,2
+"Monacanthus tuckeri","Animals","Predator",2,1,1
+"Mugil curema","Animals","Predator",1,1,2
+"Mulloidichthys martinicus","Animals","Predator",8,0.99,2
+"Mycteroperca bonaci","Animals","Predator",1,1,2
+"Mycteroperca interstitialis","Animals","Predator",1,1,1
+"Mycteroperca tigris","Animals","Predator",1,1,2
+"Mycteroperca venenosa","Animals","Predator",3,1,2
+"Myrichthys breviceps","Animals","Predator",3,1,1
+"Myrichthys ocellatus","Animals","Predator",4,0.99,2
+"Myripristis jacobus","Animals","Predator",3,1,2
+"Neoniphon marianus","Animals","Predator",2,1,2
+"Ocyurus chrysurus","Animals","Predator",11,0.99,2
+"Odontoscion dentex","Animals","Predator",3,1,2
+"Ogcocephalus nasutus","Animals","Predator",7,1.01,2
+"Oligoplites saurus","Animals","Predator",2,1,2
+"Ophichthus ophis","Animals","Predator",2,1,2
+"Ophioblennius atlanticus","Animals","Predator",2,1,1
+"Ophiuroidea sp1 FW_017","Animals","Prey",32,2.74,6
+"Opisthonema oglinum","Animals","Predator",6,1.01,2
+"Opistognathus aurifrons","Animals","Predator",2,0.99,1
+"Opistognathus maxillosus","Animals","Predator",4,1,1
+"Opistognathus whitehursti","Animals","Predator",4,1,1
+"Parablennius marmoreus","Animals","Predator",5,1,2
+"Paranthias furcifer","Animals","Predator",3,1,2
+"Pareques acuminatus","Animals","Predator",3,1,1
+"Pempheris schomburgkii","Animals","Predator",2,1,1
+"Phaeoptyx conklini","Animals","Predator",3,1,1
+"Platybelone argalus","Animals","Predator",2,1,1
+"Polyplacophora","Animals","Prey",21,0.96,5
+"Pomacanthus arcuatus","Animals","Predator",5,1,2
+"Pomacanthus paru","Animals","Predator",4,1,2
+"Porifera","Animals","Prey",13,5.02,5
+"Priacanthus arenatus","Animals","Predator",5,1,2
+"Prognathodes aculeatus","Animals","Predator",3,1,1
+"Pseudupeneus maculatus","Animals","Predator",8,1.01,2
+"Pycnogonida","Animals","Prey",2,0.03,4
+"Remora remora","Animals","Predator",2,1,1
+"Rypticus saponaceus","Animals","Predator",3,1,2
+"Sargocentron coruscum","Animals","Predator",1,1,1
+"Sargocentron vexillarium","Animals","Predator",6,0.99,2
+"Scaphopoda","Animals","Prey",3,0.08,3
+"Scartella cristata","Animals","Predator",3,1.01,2
+"Scarus coelestinus","Animals","Predator",1,0.99,2
+"Scarus guacamaia","Animals","Predator",1,1,2
+"Scarus iseri","Animals","Predator",1,1,1
+"Scarus taeniopterus","Animals","Predator",2,1,2
+"Scarus vetula","Animals","Predator",3,1,2
+"Scomberomorus cavalla","Animals","Predator",2,1,2
+"Scomberomorus regalis","Animals","Predator",2,0.99,2
+"Scorpaena brasiliensis","Animals","Predator",1,1,2
+"Scorpaena grandicornis","Animals","Predator",2,1,2
+"Scorpaena inermis","Animals","Predator",2,1,2
+"Scorpaena plumieri","Animals","Predator",3,1,2
+"Scorpaenodes caribbaeus","Animals","Predator",2,1,2
+"Selar crumenophthalmus","Animals","Predator",2,1,2
+"Seriola dumerili","Animals","Predator",1,1,2
+"Serranus tigrinus","Animals","Predator",3,1,2
+"Sparisoma aurofrenatum","Animals","Predator",2,1,2
+"Sparisoma chrysopterum","Animals","Predator",1,1,2
+"Sparisoma radians","Animals","Predator",1,1,2
+"Sparisoma rubripinne","Animals","Predator",1,1,2
+"Sparisoma viride","Animals","Predator",1,1,2
+"Sphoeroides spengleri","Animals","Predator",11,1,2
+"Sphyraena barracuda","Animals","Predator",3,1.01,4
+"Sphyraena picudilla","Animals","Predator",2,1,2
+"Stegastes fuscus","Animals","Predator",10,1,2
+"Stegastes leucostictus","Animals","Predator",9,0.99,2
+"Stegastes planifrons","Animals","Predator",6,1,2
+"Stegastes variabilis","Animals","Predator",10,1.01,2
+"Stomatopoda","Animals","Prey",38,2.21,6
+"Strongylura timucu","Animals","Predator",2,1,2
+"Synodus foetens","Animals","Predator",1,1,2
+"Synodus intermedius","Animals","Predator",2,0.99,2
+"Thalassoma bifasciatum","Animals","Predator",9,1,2
+"Trachinotus falcatus","Animals","Predator",4,1,2
+"Trachinotus goodei","Animals","Predator",5,1,2
+"Tunicata","Animals","Prey",29,2.84,5
+"Tylosurus acus acus","Animals","Predator",4,0.99,1
+"Tylosurus crocodilus","Animals","Predator",2,1,3
+"Worm","Animals","Prey",66,10.83,6
+"Xyrichtys novacula","Animals","Predator",6,0.99,2
+"Xyrichtys splendens","Animals","Predator",3,0.99,2
+"Zooplankton","Animals","Prey",90,23.8,15
+"Foraminifera sp1 FW_017","Chromista","Prey",3,0.04,6
+"Detritus","Undefined","Prey",19,6.45,27

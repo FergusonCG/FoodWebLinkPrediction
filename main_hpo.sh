@@ -1,0 +1,9 @@
+# HPO across all weighted food webs for no PCA, 5 PCA components, and 10 PCA components
+python src/hyperparameter_optimisation.py --food_webs_path final_datasets/high_feature_coverage-food_webs/ --node_features_path final_datasets/high_feature_coverage-node_features/ --pca_components 0 --out_dir results/optimisation_results/high_feature_coverage/0_pca_components
+python src/hyperparameter_optimisation.py --food_webs_path final_datasets/high_feature_coverage-food_webs/ --node_features_path final_datasets/high_feature_coverage-node_features/ --pca_components 5 --out_dir results/optimisation_results/high_feature_coverage/5_pca_components
+python src/hyperparameter_optimisation.py --food_webs_path final_datasets/high_feature_coverage-food_webs/ --node_features_path final_datasets/high_feature_coverage-node_features/ --pca_components 10 --out_dir results/optimisation_results/high_feature_coverage/10_pca_components
+
+# HPO across weighted food webs with over 50% node feature coverage for no PCA, 5 PCA components, and 10 PCA components
+python src/hyperparameter_optimisation.py --food_webs_path final_datasets/all_weighted-food_webs/ --node_features_path final_datasets/all_weighted-node_features/ --pca_components 0 --out_dir results/optimisation_resultsall_weighted/0_pca_components
+python src/hyperparameter_optimisation.py --food_webs_path final_datasets/all_weighted-food_webs/ --node_features_path final_datasets/all_weighted-node_features/ --pca_components 5 --out_dir results/optimisation_results/all_weighted/5_pca_components
+python src/hyperparameter_optimisation.py --food_webs_path final_datasets/all_weighted-food_webs/ --node_features_path final_datasets/all_weighted-node_features/ --pca_components 10 --out_dir results/optimisation_results/all_weighted/10_pca_components

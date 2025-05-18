@@ -1,0 +1,69 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Aelosoma","Animals","Prey",5,5,1
+"Aelosoma","Animals","Predator",4,4,1
+"Brachycentrus sp1 FW_012_01","Animals","Predator",4,4,1
+"Cambarus bartoni","Animals","Predator",5,5,1
+"Chauliodes sp1 FW_012_01","Animals","Predator",1,1,1
+"Cordulegaster maculata","Animals","Predator",2,2,1
+"Dicranota sp1 FW_012_01","Animals","Predator",1,1,1
+"Ectopria thoracica","Animals","Predator",5,5,2
+"Epeorus dispar","Animals","Predator",11,11,2
+"Glossosoma sp1 FW_012_01","Animals","Predator",2,2,1
+"Homoplectra sp1 FW_012_01","Animals","Prey",1,1,1
+"Homoplectra sp1 FW_012_01","Animals","Predator",6,6,1
+"Hudsonimya sp1 FW_012_01","Animals","Predator",2,2,1
+"Hydropsyche sp1 FW_012_01","Animals","Prey",4,4,1
+"Hydropsyche sp1 FW_012_01","Animals","Predator",8,8,1
+"Leucrocuta sp1 FW_012_01","Animals","Predator",10,10,1
+"Leuctra sp1 FW_012_01","Animals","Prey",1,1,1
+"Leuctra sp1 FW_012_01","Animals","Predator",3,3,1
+"Lumbriculiid oligochaeta","Animals","Predator",4,4,1
+"Lumbriculiid oligochaeta","Animals","Prey",7,7,1
+"Neureclipsis sp1 FW_012_01","Animals","Predator",3,3,1
+"Ophiogomphus sp1 FW_012_01","Animals","Predator",4,4,1
+"Palpomyia sp1 FW_012_01","Animals","Predator",1,1,1
+"Palpomyia sp2 FW_012_01","Animals","Predator",1,1,1
+"Parametriocnemus sp1 FW_012_01","Animals","Predator",4,4,1
+"Parametriocnemus sp1 FW_012_01","Animals","Prey",1,1,1
+"Promoresia sp1 FW_012_01","Animals","Predator",8,8,1
+"Psephenus sp1 FW_012_01","Animals","Predator",5,5,1
+"Salamander","Animals","Predator",7,7,2
+"Soliperla sp1 FW_012_01","Animals","Predator",4,4,1
+"Soliperla sp1 FW_012_01","Animals","Prey",1,1,1
+"Stenelmis adult","Animals","Prey",1,1,1
+"Stenelmis adult","Animals","Predator",2,2,1
+"Stenelmis sp1 FW_012_01","Animals","Prey",1,1,1
+"Stenelmis sp1 FW_012_01","Animals","Predator",2,2,1
+"Suwalia sp1 FW_012_01","Animals","Predator",3,3,1
+"Tallaperla maria","Animals","Predator",3,3,2
+"Tallaperla maria","Animals","Prey",1,1,2
+"Terrestrial Invertebrates","Animals","Prey",4,4,14
+"Thaumalea sp1 FW_012_01","Animals","Predator",7,7,1
+"Tipula abdominalis","Animals","Predator",4,4,1
+"Achnanthes lanceolata","Plants","Prey",6,6,6
+"Achnanthes minutissima","Plants","Prey",1,1,5
+"Audouinella sp1 FW_012_01","Plants","Prey",1,1,1
+"Batrachospermum","Plants","Prey",1,1,3
+"Diatoma heimale","Plants","Prey",5,5,14
+"Eunotia sp1 FW_012_01","Plants","Prey",1,1,1
+"Gomphonema sp1 FW_012_01","Plants","Prey",4,4,1
+"Meridion circulare","Plants","Prey",3,3,10
+"Plant material","Plants","Prey",18,18,2
+"Pleurotaenium","Plants","Prey",1,1,1
+"Rhoicosphenia curvata","Plants","Prey",3,3,14
+"Stigeoclonium","Plants","Prey",1,1,3
+"Ulothrix","Plants","Prey",1,1,6
+"Unidentified sp1 FW_012_01","Plants","Prey",26,26,1
+"Unidentified sp2 FW_012_01","Plants","Prey",1,1,1
+"Blue-green algae","Bacteria","Prey",6,6,7
+"Calothrix","Bacteria","Prey",1,1,4
+"Cymbella cistula","Chromista","Prey",1,1,1
+"Cymbella mulleri","Chromista","Prey",1,1,2
+"Epithemia sorex","Chromista","Prey",3,3,11
+"Epithemia turgida","Chromista","Prey",1,1,4
+"Eunotia pectinalis","Chromista","Prey",3,3,3
+"Frustulia rhomboides","Chromista","Prey",2,2,15
+"Gomphoneis herculeana","Chromista","Prey",2,2,12
+"Gomphonema intricatum","Chromista","Prey",1,1,2
+"Navicula avenacea","Chromista","Prey",1,1,15
+"Synedra ulna","Chromista","Prey",4,4,16
