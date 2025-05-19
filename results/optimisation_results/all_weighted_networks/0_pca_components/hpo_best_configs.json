@@ -1,0 +1,60 @@
+[
+    {
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 144,
+        "n_decoder_layers": 2,
+        "decoder_layer_width_0": 128,
+        "decoder_layer_width_1": 192,
+        "lr": 0.0028157284570722485,
+        "encoder_type": "gcn",
+        "pca_components": 0
+    },
+    {
+        "graphsage_aggregator": "max",
+        "n_encoder_layers": 2,
+        "encoder_layer_width_0": 96,
+        "encoder_layer_width_1": 80,
+        "n_decoder_layers": 2,
+        "decoder_layer_width_0": 176,
+        "decoder_layer_width_1": 176,
+        "lr": 0.0007176106487621652,
+        "encoder_type": "graphsage",
+        "pca_components": 0
+    },
+    {
+        "gatv2_heads": 15,
+        "gatv2_dropout": 0.1,
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 240,
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 144,
+        "decoder_layer_width_1": 160,
+        "decoder_layer_width_2": 128,
+        "decoder_layer_width_3": 224,
+        "lr": 0.0019231684607539856,
+        "encoder_type": "gatv2",
+        "pca_components": 0
+    },
+    {
+        "transformer_heads": 3,
+        "transformer_dropout": 0.0,
+        "n_encoder_layers": 2,
+        "encoder_layer_width_0": 192,
+        "encoder_layer_width_1": 80,
+        "n_decoder_layers": 3,
+        "decoder_layer_width_0": 64,
+        "decoder_layer_width_1": 144,
+        "decoder_layer_width_2": 256,
+        "lr": 0.002491134089505147,
+        "encoder_type": "transformer",
+        "pca_components": 0
+    },
+    {
+        "n_decoder_layers": 2,
+        "decoder_layer_width_0": 160,
+        "decoder_layer_width_1": 192,
+        "lr": 0.0026901805678908788,
+        "encoder_type": "simple",
+        "pca_components": 0
+    }
+]

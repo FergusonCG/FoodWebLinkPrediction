@@ -1,0 +1,64 @@
+[
+    {
+        "n_encoder_layers": 3,
+        "encoder_layer_width_0": 80,
+        "encoder_layer_width_1": 192,
+        "encoder_layer_width_2": 160,
+        "n_decoder_layers": 2,
+        "decoder_layer_width_0": 48,
+        "decoder_layer_width_1": 224,
+        "lr": 0.0010658447464074584,
+        "encoder_type": "gcn",
+        "pca_components": 10
+    },
+    {
+        "graphsage_aggregator": "add",
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 32,
+        "n_decoder_layers": 5,
+        "decoder_layer_width_0": 144,
+        "decoder_layer_width_1": 192,
+        "decoder_layer_width_2": 208,
+        "decoder_layer_width_3": 256,
+        "decoder_layer_width_4": 240,
+        "lr": 0.0016709928224868636,
+        "encoder_type": "graphsage",
+        "pca_components": 10
+    },
+    {
+        "gatv2_heads": 2,
+        "gatv2_dropout": 0.30000000000000004,
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 48,
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 80,
+        "decoder_layer_width_1": 112,
+        "decoder_layer_width_2": 240,
+        "decoder_layer_width_3": 240,
+        "lr": 0.0022577019094415485,
+        "encoder_type": "gatv2",
+        "pca_components": 10
+    },
+    {
+        "transformer_heads": 3,
+        "transformer_dropout": 0.0,
+        "n_encoder_layers": 3,
+        "encoder_layer_width_0": 112,
+        "encoder_layer_width_1": 176,
+        "encoder_layer_width_2": 144,
+        "n_decoder_layers": 3,
+        "decoder_layer_width_0": 224,
+        "decoder_layer_width_1": 176,
+        "decoder_layer_width_2": 112,
+        "lr": 0.00027308078657108353,
+        "encoder_type": "transformer",
+        "pca_components": 10
+    },
+    {
+        "n_decoder_layers": 1,
+        "decoder_layer_width_0": 144,
+        "lr": 0.014350334272346669,
+        "encoder_type": "simple",
+        "pca_components": 10
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 128,
+        "n_decoder_layers": 3,
+        "decoder_layer_width_0": 160,
+        "decoder_layer_width_1": 224,
+        "decoder_layer_width_2": 256,
+        "lr": 0.0018371209699864224,
+        "encoder_type": "gcn",
+        "pca_components": 5
+    },
+    {
+        "graphsage_aggregator": "add",
+        "n_encoder_layers": 2,
+        "encoder_layer_width_0": 112,
+        "encoder_layer_width_1": 16,
+        "n_decoder_layers": 5,
+        "decoder_layer_width_0": 192,
+        "decoder_layer_width_1": 224,
+        "decoder_layer_width_2": 112,
+        "decoder_layer_width_3": 160,
+        "decoder_layer_width_4": 256,
+        "lr": 0.001638532946698658,
+        "encoder_type": "graphsage",
+        "pca_components": 5
+    },
+    {
+        "gatv2_heads": 3,
+        "gatv2_dropout": 0.2,
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 80,
+        "n_decoder_layers": 2,
+        "decoder_layer_width_0": 64,
+        "decoder_layer_width_1": 240,
+        "lr": 0.00023593992164015157,
+        "encoder_type": "gatv2",
+        "pca_components": 5
+    },
+    {
+        "transformer_heads": 2,
+        "transformer_dropout": 0.0,
+        "n_encoder_layers": 4,
+        "encoder_layer_width_0": 176,
+        "encoder_layer_width_1": 176,
+        "encoder_layer_width_2": 208,
+        "encoder_layer_width_3": 16,
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 160,
+        "decoder_layer_width_1": 96,
+        "decoder_layer_width_2": 176,
+        "decoder_layer_width_3": 160,
+        "lr": 0.001678182793244261,
+        "encoder_type": "transformer",
+        "pca_components": 5
+    },
+    {
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 144,
+        "decoder_layer_width_1": 144,
+        "decoder_layer_width_2": 224,
+        "decoder_layer_width_3": 224,
+        "lr": 0.0023160976132689014,
+        "encoder_type": "simple",
+        "pca_components": 5
+    }
+]

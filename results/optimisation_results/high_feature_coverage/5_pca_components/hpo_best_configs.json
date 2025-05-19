@@ -1,0 +1,69 @@
+[
+    {
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 64,
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 240,
+        "decoder_layer_width_1": 48,
+        "decoder_layer_width_2": 224,
+        "decoder_layer_width_3": 192,
+        "lr": 0.004481962601063476,
+        "encoder_type": "gcn",
+        "pca_components": 5
+    },
+    {
+        "graphsage_aggregator": "add",
+        "n_encoder_layers": 2,
+        "encoder_layer_width_0": 96,
+        "encoder_layer_width_1": 112,
+        "n_decoder_layers": 5,
+        "decoder_layer_width_0": 128,
+        "decoder_layer_width_1": 240,
+        "decoder_layer_width_2": 256,
+        "decoder_layer_width_3": 64,
+        "decoder_layer_width_4": 80,
+        "lr": 0.0022214452637547124,
+        "encoder_type": "graphsage",
+        "pca_components": 5
+    },
+    {
+        "gatv2_heads": 2,
+        "gatv2_dropout": 0.1,
+        "n_encoder_layers": 1,
+        "encoder_layer_width_0": 16,
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 160,
+        "decoder_layer_width_1": 192,
+        "decoder_layer_width_2": 176,
+        "decoder_layer_width_3": 256,
+        "lr": 0.0010232056082789722,
+        "encoder_type": "gatv2",
+        "pca_components": 5
+    },
+    {
+        "transformer_heads": 10,
+        "transformer_dropout": 0.0,
+        "n_encoder_layers": 4,
+        "encoder_layer_width_0": 80,
+        "encoder_layer_width_1": 176,
+        "encoder_layer_width_2": 192,
+        "encoder_layer_width_3": 160,
+        "n_decoder_layers": 3,
+        "decoder_layer_width_0": 224,
+        "decoder_layer_width_1": 208,
+        "decoder_layer_width_2": 240,
+        "lr": 0.0006338804677750636,
+        "encoder_type": "transformer",
+        "pca_components": 5
+    },
+    {
+        "n_decoder_layers": 4,
+        "decoder_layer_width_0": 192,
+        "decoder_layer_width_1": 224,
+        "decoder_layer_width_2": 112,
+        "decoder_layer_width_3": 96,
+        "lr": 0.0014141284134817351,
+        "encoder_type": "simple",
+        "pca_components": 5
+    }
+]
