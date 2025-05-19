@@ -68,6 +68,17 @@ def get_high_coverage_columns(json_node_features_dir="json_node_features"):
 
     Many taxonomic features are missing for over 99% of nodes across food webs, therefore we use only those
         with >50% mean coverage to minimise the impact poor quality data has on predictions.
+
+    Parameters
+    ----------
+    json_node_features_dir : str
+        Path to folder containing JSON node features as output by `import_node_features.R`
+
+    Returns
+    -------
+    dict
+        Dictionary where keys are the names of features that are missing for less than 50% of nodes across all
+        food webs in `json_node_features_dir`, and values are the corresponding coverage for that feature.
     """
     coverages = {}
     for node_features_file in os.listdir(json_node_features_dir):

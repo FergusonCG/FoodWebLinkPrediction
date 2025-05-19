@@ -27,23 +27,20 @@ from data import (
 )
 from config import DEVICE
 
-# send all graphs directly to the correct device
+# Send all graphs directly to the correct device
 _to_device = ToDevice(DEVICE)
 
-# reproducibility of weight initialisation & Optuna sampling
+# Seed torch for reporoducability
 torch.manual_seed(42)
 
 ENCODERS = {
     "gcn"        : {},
-    "graphsage"  : {},     # aggregator is still tuned inside the study
+    "graphsage"  : {}, 
     "gatv2"      : {},
-    "transformer": {},     # UniMP
+    "transformer": {}, 
     "simple"     : {},
 }
 
-# ─────────────────────────────────────────────────────────────────────────────
-#  G N N    H P O
-# ─────────────────────────────────────────────────────────────────────────────
 class GNNHPO:
     """Hyper‑parameter search over encoder and decoder architectures."""
 
@@ -133,6 +130,9 @@ class GNNHPO:
             ----------
             trial : optuna.Trial
                 The current Optuna trial object.
+            pca_components : int
+                The number of PCA components used (for logging). This has to be passed as a parameter as 
+                PCA is applied outside of this function.
 
             Returns
             -------
