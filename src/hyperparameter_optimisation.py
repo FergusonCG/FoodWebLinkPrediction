@@ -331,7 +331,7 @@ def main():
 
         best = hpo.hyperparameter_optimization_logo(
             dataset_paths=dataset_paths,
-            encoder_type=encoder,               # <‑‑ fixed encoder
+            encoder_type=encoder, 
             n_trials=args.n_trials,
             epochs=args.epochs,
             log_path=os.path.join(args.out_dir, f"hyperparam_logo_logs_{encoder}.csv"),
