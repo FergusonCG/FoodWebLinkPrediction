@@ -1,6 +1,6 @@
 ## FoodWebLinkPrediction
 
-This repository contains the code behind my Masters dissertation in Artificial Intelligence with the University of Liverpool.
+This repository contains the code behind my Masters dissertation in Artificial Intelligence with the University of Liverpool. To view the code on GitHub, please use the following link: https://github.com/FergusonCG/FoodWebLinkPrediction/tree/main.
 
 Code has been produced using Python (developed using 3.12.3) and R (developed using version 4.3.3) on Ubuntu 20.04 and 24.04 systems.
 
